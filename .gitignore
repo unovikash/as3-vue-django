@@ -3,4 +3,4 @@
 .idea
 __pycache__
 db.sqlite3
-mtzt/local_settings.py
+local_settings.py
